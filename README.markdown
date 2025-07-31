@@ -1,11 +1,10 @@
 # Huiz — Know Better.
 
-A Perplexity-style AI search and answer engine that finds, reasons, and cites sources in real time.  
+Huiz is a modern, AI-powered search engine designed to deliver insightful, well-reasoned responses with inline citations. With a minimal, vintage-inspired UI, Huiz combines real-time web search, conversational AI, and a delightful user experience to help you uncover knowledge swiftly.
 **Fast, conversational answers with links you can trust.**
 
-![Huiz Screenshot](public/screenshot.png)
+<img width="1895" height="851" alt="image" src="https://github.com/user-attachments/assets/1a90e589-1fef-4efb-b418-f530bdfd025e" />
 
-Huiz is a modern, AI-powered search engine designed to deliver insightful, well-reasoned responses with inline citations. With a minimal, vintage-inspired UI, Huiz combines real-time web search, conversational AI, and a delightful user experience to help you uncover knowledge swiftly.
 
 ## Features
 
@@ -22,6 +21,11 @@ Huiz is a modern, AI-powered search engine designed to deliver insightful, well-
 - **🧩 Pluggable LLM Backend**: Bring your own LLM provider (e.g., OpenAI, OpenRouter) via a unified interface.
 - **🔒 Provider-Agnostic**: Configure your preferred search and LLM providers through environment variables.
 
+<img width="1880" height="842" alt="image" src="https://github.com/user-attachments/assets/421d27fe-6f7d-41fc-94f3-5489d3fc60f3" />
+
+<img width="1856" height="858" alt="image" src="https://github.com/user-attachments/assets/3f2e96c3-76e4-4b99-bbc4-113994036a65" />
+
+
 ## Tech Stack
 
 - **Frontend**: React, Vite, TypeScript, Tailwind CSS, Framer Motion, React Markdown
@@ -29,6 +33,7 @@ Huiz is a modern, AI-powered search engine designed to deliver insightful, well-
 - **AI**: Any LLM provider (e.g., OpenAI, OpenRouter, Anthropic) via a single interface
 - **Search**: Web search APIs (e.g., Tavily, Serper, Exa, You.com)
 - **Dependencies**: `react-markdown`, `remark-gfm` for rendering markdown responses with tables and links
+
 
 ## Repository
 
